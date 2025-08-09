@@ -1,0 +1,27 @@
+from sqlmodel import Field, SQLModel
+from typing import Optional
+
+def Movies(SQLModel, table=True):
+      activate_notification BOOLEAN,
+      add_date TEXT,
+      backdrop_path TEXT,
+      budget INTEGER,
+      color BOOLEAN,
+      genres TEXT,
+      id TEXT PRIMARY KEY,
+      manual BOOLEAN,
+      notes TEXT,
+      new_release BOOLEAN,
+      original_language TEXT,
+      original_title TEXT,
+      overview TEXT,
+      poster_path TEXT,
+      recent_change BOOLEAN,
+      release_date TEXT,
+      revenue INTEGER,
+      runtime INTEGER,
+      soon_release BOOLEAN,
+      status TEXT,
+      tagline TEXT,
+      title TEXT,
+      watched BOOLEAN,

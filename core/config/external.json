@@ -1,0 +1,38 @@
+{
+  "tmdb": {
+    "tmdb_api_key": "22393ada3d643078a529e8a206c80804",
+    "tmdb_base_url": "https://api.themoviedb.org/3",
+    "tmdb_image_base_url": "https://image.tmdb.org/t/p",
+    "tmdb_image_size": "w500",
+    "tmdb_language": "en-US",
+    "tmdb_region": "US"
+
+  },
+  "fanart_tv":{
+    "fanart_tv_api_key": "?api_key=fb0a2a4ac3b655629d2bdf2571c319b3",
+    "fanart_tv_movie_url": "https://webservice.fanart.tv/v3/movies/",
+    "fanart_tv_tv_url": "https://webservice.fanart.tv/v3/tv/"
+  },
+  "omdb":{
+    "omdb_api_key": "?apikey=22393ada",
+    "omdb_base_url": "https://www.omdbapi.com/",
+    "omdb_language": "en",
+    "omdb_region": "US",
+    "omdb_type": "movie"
+  },
+  "trakt":{
+    "trakt_api_key": "c13f55182c9da543b9811be530e3ea26c22b35a4fdabe38414cf0a0b70e79987"
+    "trakt_api_secret": "7845f86941ba0f54b123c39a5d98e201beb1188718f0847c0fe2a0dde9fd357c"
+    "trakt_base_url": "https://api.trakt.tv
+    "trakt_movie_url": "/movies/"
+    "trakt_tv_url": "/shows/"
+    
+  },
+  "telegram":{
+    "bot_XX_token": "6684295771:AAHZs3V4Z6Qh53Qh53Qh53Qh53Qh53Qh53Qh5",
+    "bot_XX_chat_id": "6684295771",
+    "bot_XX_base_url": "https://api.telegram.org/bot",
+    
+    
+  }
+}

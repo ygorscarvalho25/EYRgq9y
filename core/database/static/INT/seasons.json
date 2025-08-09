@@ -1,0 +1,38 @@
+[
+    {
+        "episodes_number": 8,
+        "id": "88062",
+        "overview": "",
+        "poster_path": "file:///home/father/.var/app/me.iepure.Ticketbooth/data/series/71578/1/1hQ9LmUA6i5PO6yGODvFyqnqoMd.jpg",
+        "season_number": 1,
+        "show_id": 71578,
+        "title": "Season 1"
+    },
+    {
+        "episodes_number": 10,
+        "id": "108149",
+        "overview": "",
+        "poster_path": "file:///home/father/.var/app/me.iepure.Ticketbooth/data/series/71578/2/i1xqghqv3Q24Wb72FtZSHnkcbIt.jpg",
+        "season_number": 2,
+        "show_id": 71578,
+        "title": "Season 2"
+    },
+    {
+        "episodes_number": 10,
+        "id": "133403",
+        "overview": "",
+        "poster_path": "file:///home/father/.var/app/me.iepure.Ticketbooth/data/series/71578/3/l36thHtZ8D4ROb9rel6VEwyn8Ne.jpg",
+        "season_number": 3,
+        "show_id": 71578,
+        "title": "Season 3"
+    },
+    {
+        "episodes_number": 10,
+        "id": "197741",
+        "overview": "",
+        "poster_path": "file:///home/father/.var/app/me.iepure.Ticketbooth/data/series/71578/4/j8E67Na39fjoow4m8IoYcXBbCsF.jpg",
+        "season_number": 4,
+        "show_id": 71578,
+        "title": "Season 4"
+    }
+]

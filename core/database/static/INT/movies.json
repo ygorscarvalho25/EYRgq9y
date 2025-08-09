@@ -1,0 +1,36 @@
+[
+    {
+        "backdrop_path": "",
+        "belongs_to_collection_id": null,
+        "genres": "Action",
+        "imdb_id": "0",
+        "original_title": "Rambo",
+        "overview": "Upcoming Rambo remake starring Tiger Shroff",
+        "poster_path": "file:///home/father/.var/app/me.iepure.Ticketbooth/data/poster/9YtiecEbDSx4MEt2HUS2fKcJ9Dq.jpg",
+        "recent_change": "0",
+        "release_date": "2025-01-01",
+        "runtime": 0,
+        "status": "Canceled",
+        "tagline": "",
+        "tmdb_id": "1205021",
+        "watched": 0,
+        "year_title": "Rambo"
+    },
+    {
+        "backdrop_path": "file:///home/father/.var/app/me.iepure.Ticketbooth/data/background/8cX1Xt91RSpxpwNamNDQog0OeMq.jpg",
+        "belongs_to_collection_id": null,
+        "genres": "Action,Thriller,War",
+        "imdb_id": "1",
+        "original_title": "Rambo",
+        "overview": "In Thailand, ex-Green Beret John James Rambo joins a group of mercenaries to venture into war-torn neighboring Myanmar to rescue a group of Christian aid workers who have been kidnapped by a ruthless local infantry unit.",
+        "poster_path": "file:///home/father/.var/app/me.iepure.Ticketbooth/data/poster/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
+        "recent_change": "0",
+        "release_date": "2008-01-24",
+        "runtime": 92,
+        "status": "Released",
+        "tagline": "Live for nothing, or die for something.",
+        "tmdb_id": "7555",
+        "watched": 0,
+        "year_title": "Rambo"
+    }
+]
